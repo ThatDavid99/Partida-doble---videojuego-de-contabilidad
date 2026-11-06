@@ -1,0 +1,55 @@
+# Unity: carpetas generadas
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Proyecto duplicado/vacío dentro de la carpeta
+/Partida Doble/
+
+# Control de versiones anterior (Plastic SCM)
+/.plastic/
+ignore.conf
+
+# IDE y archivos generados
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.tmp
+
+# Builds y paquetes
+*.apk
+*.aab
+*.unitypackage
+*.app
+sysinfo.txt
+crashlytics-build.properties
+/[Aa]ssets/[Ss]treaming[Aa]ssets/aa/*
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/PlasticSCM*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
